@@ -3,13 +3,13 @@
 
 **Nesta Jornada teremos que cumprir os seguintes objetivos:**
 
-- [ ] Introduction to Basic HTML & HTML5
-- [ ] Say Hello to HTML ElementsPassed
-- [ ] Headline with the h2 Element
-- [ ] Inform with the Paragraph Element
-- [ ] Fill in the Blank with Placeholder Text
-- [ ] Uncomment HTML
-- [ ] Comment out HTML
+- [x] Introduction to Basic HTML & HTML5
+- [x] Say Hello to HTML ElementsPassed
+- [x] Headline with the h2 Element
+- [x] Inform with the Paragraph Element
+- [x] Fill in the Blank with Placeholder Text
+- [x] Uncomment HTML
+- [x] Comment out HTML
 - [ ] Delete HTML Elements
 - [ ] Introduction to HTML5 Elements
 - [ ] Add Images to Your Website
