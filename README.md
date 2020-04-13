@@ -32,3 +32,5 @@
 - [ ] Nest Many Elements within a Single div Element
 - [ ] Declare the Doctype of an HTML Document
 - [ ] Define the Head and Body of an HTML Document
+
+* E para servir de inspiração e acompanhamento, uma playlist especial https://www.youtube.com/playlist?list=PL55ylHrobxfpuFcXvTfrbaRMGID7aHrul 
