@@ -13,8 +13,8 @@
 - [x] Delete HTML Elements
 - [x] Introduction to HTML5 Elements
 - [x] Add Images to Your Website
-- [ ] Link to External Pages with Anchor Elements
-- [ ] Link to Internal Sections of a Page with Anchor Elements
+- [x] Link to External Pages with Anchor Elements
+- [x] Link to Internal Sections of a Page with Anchor Elements
 - [ ] Nest an Anchor Element within a Paragraph
 - [ ] Make Dead Links Using the Hash Symbol
 - [ ] Turn an Image into a Link
