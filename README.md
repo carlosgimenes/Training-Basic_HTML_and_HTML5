@@ -15,8 +15,8 @@
 - [x] Add Images to Your Website
 - [x] Link to External Pages with Anchor Elements
 - [x] Link to Internal Sections of a Page with Anchor Elements
-- [ ] Nest an Anchor Element within a Paragraph
-- [ ] Make Dead Links Using the Hash Symbol
+- [x] Nest an Anchor Element within a Paragraph
+- [x] Make Dead Links Using the Hash Symbol
 - [ ] Turn an Image into a Link
 - [ ] Create a Bulleted Unordered List
 - [ ] Create an Ordered List
