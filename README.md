@@ -17,7 +17,7 @@
 - [x] Link to Internal Sections of a Page with Anchor Elements
 - [x] Nest an Anchor Element within a Paragraph
 - [x] Make Dead Links Using the Hash Symbol
-- [ ] Turn an Image into a Link
+- [x] Turn an Image into a Link
 - [ ] Create a Bulleted Unordered List
 - [ ] Create an Ordered List
 - [ ] Create a Text Field
