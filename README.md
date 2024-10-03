@@ -1,5 +1,4 @@
-# freeCodeCamp - Treinamentos
-## Basic HTML and HTML5
+# Training freeCodeCamp - Basic HTML and HTML5
 
 **Nesta Jornada teremos que cumprir os seguintes objetivos:**
 
